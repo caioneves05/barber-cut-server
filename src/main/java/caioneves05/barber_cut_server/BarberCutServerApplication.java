@@ -1,13 +1,13 @@
-package com.barber_cut_server;
+package caioneves05.barber_cut_server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class BarberCutServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(BarberCutServerApplication.class, args);
 	}
 
 }
